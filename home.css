@@ -1,0 +1,36 @@
+html,
+h1 {
+  background-image: url('https://i.kinja-img.com/gawker-media/image/upload/s--tZcgs1D9--/c_scale,f_auto,fl_progressive,q_80,w_800/uuvjj2jibz2cmkab4zcv.jpg');
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0)
+}
+
+a {
+  background-color: rgba(0, 0, 0, .5);
+  color: white;
+}
+
+.pages {
+  text-align: center;
+  word-spacing: 1em;
+  font-family: "Bungee";
+}
+
+.header {
+  font-family: "Lobster";
+  text-align: center;
+}
+
+.z {
+  color: silver;
+  font-family: "PT Sans", sans-serif;
+  background-color: rgba(0, 0, 0, .5);
+  border: inset silver;
+}
